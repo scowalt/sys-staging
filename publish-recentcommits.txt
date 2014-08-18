@@ -1,5 +1,5 @@
+c5a67c2 Fixed bootstrap icon path
 16dc76f Merge pull request #7 from angrave/new_design_ui
 97f7a89 Compile button and status text now respond properly to compilation status
 f248d5f Fixed VM, UI looks better, basic functionality works
 98a8d0f New UI structure is ready
-602cd6f tracking code for http://angrave.github.io/sys
