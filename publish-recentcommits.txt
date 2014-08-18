@@ -1,5 +1,5 @@
-587942b Updated gruntfile to exclude jor1k's .git dir
-292966b Fixed the file globbing pattern for copying in gruntfile
-ca3e717 Fixed path to hd img
-a454d38 Fixed linting errors in gruntfile
-45869db Added readme for deployed version, also hook for copying readme, cname and other files to dist
+16dc76f Merge pull request #7 from angrave/new_design_ui
+97f7a89 Compile button and status text now respond properly to compilation status
+f248d5f Fixed VM, UI looks better, basic functionality works
+98a8d0f New UI structure is ready
+602cd6f tracking code for http://angrave.github.io/sys
