@@ -1,5 +1,5 @@
-e9598c9 Added ace mode and theme files to index.html, so that they get included during build
-4d719ee Moved init code to main.js, because code in script tags is thrown away during build. Fixed bootstrap icon path
-16dc76f Merge pull request #7 from angrave/new_design_ui
-97f7a89 Compile button and status text now respond properly to compilation status
-f248d5f Fixed VM, UI looks better, basic functionality works
+425f868 Fix #14: gcc opts errors show in a popover on the textbox, and the textbox becomes red
+057e0c9 Show compile status box only when the error/warning label is not visible
+0b55a72 Fix #12: cc1 errors are now reported. Some work on #14: Remove gcc opts errors from editor
+35f9dd5 Refactor gcc parsing code into separate file for better modularity
+d6cef6f Updated readme for dealing with jor1k disk images
