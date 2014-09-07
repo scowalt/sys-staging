@@ -1,5 +1,5 @@
+af3052b Fix #23: Add background re-indenting of code
+7a8fee6 Add settings popover for the editor
 425f868 Fix #14: gcc opts errors show in a popover on the textbox, and the textbox becomes red
 057e0c9 Show compile status box only when the error/warning label is not visible
 0b55a72 Fix #12: cc1 errors are now reported. Some work on #14: Remove gcc opts errors from editor
-35f9dd5 Refactor gcc parsing code into separate file for better modularity
-d6cef6f Updated readme for dealing with jor1k disk images
