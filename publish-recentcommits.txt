@@ -1,5 +1,5 @@
-21a9b52 Refactor setState in view
-ce24ff4 Refactor sys view setting function
-601ad87 Set up router object
-69e8b9a Move playground specific CSS into own file
-fa593d5 Move playground specific CSS into own file
+c7ac9a6 Refactor setState in view
+3e899dd Refactor sys view setting function
+c061543 Set up router object
+f9799e4 Move playground specific CSS into own file
+8720b49 Move playground specific CSS into own file
