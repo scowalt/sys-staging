@@ -1,5 +1,5 @@
+c171de0 jqxhr object keys remove quotes
+6d4cc6e Made fake jqxhr's methods return this so that its methods can be chained
 5d2a012 Added error handling to remaining ajax calls
 c9adcfa Add error handling to sys.json ajax call, and if the call fails, redirect to the playground. This is so that sysbuild can be deployed without sysassets included too
 d4e67af Place defaults in knockout input fields observables, so that they are not undefined
-11e0edd Added standalone playground
-97f6166 copy videojs fonts too when building
