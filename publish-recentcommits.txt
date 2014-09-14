@@ -1,5 +1,5 @@
+d4e67af Place defaults in knockout input fields observables, so that they are not undefined
 11e0edd Added standalone playground
 97f6166 copy videojs fonts too when building
 59436fa fix favicon location in deployed version, minor refactor
 08f72f8 Better navigation: now users can navigate through an entire chapter using next and previous buttons
-66bdac3 Removed video topics list
