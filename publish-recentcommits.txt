@@ -1,5 +1,5 @@
-d3bf635 Lesson/playground nav is shown only when lessons are available
-5e99ff7 Add navbar links for better navigation between lessons and playground
-c62e949 Fix #27: Dismiss editor settings popover on next click; Minor change: Use nbsp instead of space in name of code tab
-2a6e161 Merge pull request #26 from angrave/integrate_chapters
-c171de0 jqxhr object keys remove quotes
+714c256 Merge pull request #32 from angrave/sysassets_man_pages
+1dce6f4 Tab management improvement, man pages can now be search using enter key and man page is only searched if autocomplete or suggestion was used
+667994b search page title
+54c21e8 Add open button to open man page in a new pseudo tab
+7865fe9 styles for typeahead, template for typeahead suggestion list
