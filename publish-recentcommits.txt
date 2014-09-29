@@ -1,5 +1,0 @@
-aeca961 manage tabs when showing playground
-714c256 Merge pull request #32 from angrave/sysassets_man_pages
-1dce6f4 Tab management improvement, man pages can now be search using enter key and man page is only searched if autocomplete or suggestion was used
-667994b search page title
-54c21e8 Add open button to open man page in a new pseudo tab
