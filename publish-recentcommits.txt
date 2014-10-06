@@ -1,5 +1,5 @@
-d5c6b73 copy sysassets during deploy; do not copy mp4 and html man pages
-684ce26 Serve video files and man page html from angrave/sysassets gh-pages
-3ca1afc build script changes
-1610705 copy sysassets during deploy
-f69c338 Build script for copying sysassets to dist folder
+2b369df enable analytics on staging too
+6986bd9 add sysassets to project structure in readme
+cd6722b deployed project README
+99fe96c Merge pull request #34 from angrave/ga_tracking_base
+9e25c62 doc text
